@@ -1,0 +1,74 @@
+Jade Sanchez
+ITAI 2372
+2/1/2025
+
+A04 AI in Finance
+Key Technologies
+ML, NLP, Computer Vision
+AI adoption growing rapidly
+Advantages
+Efficiency: Faster, reliable processes
+Risk Management: Better analysis
+Customer Experience: Personalization
+Cost Reduction: Lower operational costs
+AI in Trading
+High-frequency trading: Executes fast trades
+Pattern recognition: Detects opportunities
+Predictive analytics: Forecasts trends
+AI in Fraud Detection
+Real-time monitoring: Detects fraud instantly
+Anomaly detection: Finds suspicious activity
+Behavioral analysis: Identifies unusual patterns
+
+AI in Credit Scoring
+Alternative data: Uses non-traditional sources
+Risk assessment: Accurate profiling
+Loan approvals: Faster automation
+AI in Customer Service
+Chatbots: 24/7 support
+Virtual assistants: Personalized advice
+Recommendations: Tailored product suggestions
+AI in Risk Management
+Predictive analytics: Anticipates risks
+Stress testing: Evaluates worst-case scenarios
+Compliance: Ensures regulations
+AI in Portfolio Management
+Robo-advisors: Automated guidance
+Asset allocation: Optimized investments
+Rebalancing: Real-time adjustments
+AI in Insurance
+Claims processing: Faster automation
+Risk assessment: Accurate premiums
+Policy recommendations: Personalized plans
+
+AI in Compliance & Forecasting
+Automated reporting & monitoring
+Market sentiment & predictive modeling
+AI & Blockchain
+Enhances decision-making
+Smart contracts & security improvements
+AI-powered crypto trading
+Future Trends
+Quantum computing: Speeds up calculations
+Explainable AI: Increases transparency
+Edge computing: Reduces latency
+Ethical Considerations
+Transparency, fairness, data privacy, accountability, compliance
+Case Study: FinSecure Bank
+AI for fraud detection & risk management
+The issue exists because the bank faces elevated fraudulent activities together with delayed
+identification of such events.
+Solution: ML-based real-time fraud scoring
+Through the use of this technology the institution achieved 60% lower fraud losses while
+simultaneously increasing detection speed to 80%.
+Lessons: Quality data, teamwork, ongoing updates
+
+Key Takeaways
+Through AI technology organizations achieve higher operational speed combined with better risk
+control plus superior service delivery to their customers.
+Reduces fraud, enhances decision-making
+Quantum computing together with explainable AI represent future directions in modern
+technological development.
+Quality data along with partner collaboration stand as vital points during this process
+
+
